@@ -1,5 +1,5 @@
 {
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.8.0/schema.json",
   "name": "93b90440bb56cbc08401",
   "position": {
     "x": 1,
@@ -7,7 +7,7 @@
     "z": 16000,
     "height": 720,
     "width": 262,
-    "tabOrder": 14010
+    "tabOrder": 15000
   },
   "visualGroup": {
     "displayName": "Filter Slicer",
