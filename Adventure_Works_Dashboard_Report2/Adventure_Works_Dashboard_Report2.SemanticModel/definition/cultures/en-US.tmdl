@@ -9043,16 +9043,6 @@ cultureInfo en-US
 			            },
 			            "Weight": 0.491
 			          }
-			        },
-			        {
-			          "UNIQUE CUSTOMERS": {
-			            "State": "Suggested",
-			            "Source": {
-			              "Type": "External",
-			              "Agent": "PowerBI.VisualColumnRename"
-			            },
-			            "Weight": 0.9
-			          }
 			        }
 			      ]
 			    },
@@ -10514,16 +10504,6 @@ cultureInfo en-US
 			              "Agent": "Thesaurus"
 			            },
 			            "Weight": 0.714
-			          }
-			        },
-			        {
-			          "REVENUE PER CUSTOMER": {
-			            "State": "Suggested",
-			            "Source": {
-			              "Type": "External",
-			              "Agent": "PowerBI.VisualColumnRename"
-			            },
-			            "Weight": 0.9
 			          }
 			        }
 			      ]

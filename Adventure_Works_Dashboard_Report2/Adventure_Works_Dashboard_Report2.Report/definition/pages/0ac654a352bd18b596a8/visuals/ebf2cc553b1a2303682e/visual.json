@@ -1,5 +1,5 @@
 {
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.8.0/schema.json",
   "name": "ebf2cc553b1a2303682e",
   "position": {
     "x": 31,
@@ -7,7 +7,7 @@
     "z": 2000,
     "height": 196,
     "width": 154,
-    "tabOrder": 14008
+    "tabOrder": 2000
   },
   "visual": {
     "visualType": "slicer",
@@ -242,20 +242,6 @@
             }
           ]
         }
-      },
-      {
-        "name": "0f95cee4ec6d01090984",
-        "field": {
-          "Column": {
-            "Expression": {
-              "SourceRef": {
-                "Entity": "Territory Lookup"
-              }
-            },
-            "Property": "Continent"
-          }
-        },
-        "type": "Categorical"
       }
     ]
   }
