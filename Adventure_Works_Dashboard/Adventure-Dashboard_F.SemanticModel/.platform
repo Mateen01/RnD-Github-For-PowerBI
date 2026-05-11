@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Adventure-Dashboard_F"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d6dfbc7f-c857-4435-a7d9-977636984a81"
+  }
+}
